@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](http://sarufratul.com/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](http://sarufratul.me/)**
 
 - 📫 How to reach me **saruftoratul95@gmail.com**
 
