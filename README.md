@@ -2,6 +2,21 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"  height="45px">, I'm Saruf Ratul</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3>
+<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
+
+<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
+     <a itemprop='url' href=https://www.fiverr.com/sarufratul rel="nofollow" target="_blank" style='display: inline-block;'>
+        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-999b27a6-84ce-4889-a760-b1874ac6c5db' itemprop='contentURL' style='display: none;'></div>
+        <div id='fiverr-widget-seller-data' style='display: none;'>
+            <div itemprop='name' >sarufratul</div>
+            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
+            <div itemprop='jobtitle'>Seller</div>
+            <div itemprop='description'>I have 3+ years of expertise as a Full Stack Web Developer. With Laravel, PHP, and Node Restful APIs, I can build a Full Stack Web Application for you. I've performed several projects to the total delight of my clients. I studied Computer Science for my bachelor's degree. In addition, I work for an Innovative Software Company as a software project manager.</div>
+        </div>
+    </a>
+</div>
+
+<script id='fiverr-seller-widget-script-999b27a6-84ce-4889-a760-b1874ac6c5db' src='https://widgets.fiverr.com/api/v1/seller/sarufratul?widget_id=999b27a6-84ce-4889-a760-b1874ac6c5db' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>
 
 
 ## 🙋‍♂️ About Me
