@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[ERA-Infotech LTD.](https://www.erainfotechbd.com/)**
+- 🔭 I’m currently working on **[NAVANA LIMITED](https://toyota.com.bd/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -17,8 +17,7 @@
 
 - ⚡ Fun fact **I play online games and go to the fishing very often.**
 
-## 🚀 Languages and Tools:</br>
-
+## 🚀 Languages and Tools:
 <h3 align="center">Frontend Development :</h3>
 <p align="center"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
