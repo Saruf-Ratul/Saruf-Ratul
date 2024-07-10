@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"  height="45px">, I'm Saruf Ratul</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saruf-ratul" alt="saruf-ratul" /></a> </p>
+
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[NAVANA LIMITED](https://toyota.com.bd/)**
@@ -73,6 +73,8 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Saruf-Ratul's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Saruf-Ratul&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saruf-ratul" alt="saruf-ratul" /></a> </p>
 
 ## 📊 My Github Stats
  <br/>
