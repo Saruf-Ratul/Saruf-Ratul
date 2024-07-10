@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"  height="45px">, I'm Saruf Ratul</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarufratuls-projects" alt="saruf-ratul" /></a> </p>
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[NAVANA LIMITED](https://toyota.com.bd/)**
