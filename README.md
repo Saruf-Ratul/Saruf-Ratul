@@ -74,7 +74,7 @@
     </a>
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saruf-ratul" alt="saruf-ratul" /></a> </p>
+<p align="center"> <a href="https://github.com/Saruf-Ratul"><img src="https://github-profile-trophy.vercel.app/?username=saruf-ratul" alt="saruf-ratul" /></a> </p>
 
 ## 📊 My Github Stats
  <br/>
