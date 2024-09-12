@@ -89,6 +89,8 @@
 <br/>
 <br/>
 
+<figure><embed src="https://wakatime.com/share/@9f55adf6-fad8-403c-9022-156d2e9ba31a/5504aa7e-09be-475e-93bc-ebeaec9225f9.svg"></embed></figure>
+
 ## Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/saruf-ratul/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
