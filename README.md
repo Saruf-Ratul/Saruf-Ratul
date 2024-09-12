@@ -89,7 +89,7 @@
 <br/>
 <br/>
 <a href="https://github.com/Saruf-Ratul?tab=repositories"><img alt="Saruf-Ratul's Activity Graph" src="https://wakatime.com/share/@9f55adf6-fad8-403c-9022-156d2e9ba31a/08291cb3-2686-4b55-b51e-afc9f4a2066f.svg"/></a>
-<a href="https://github.com/Saruf-Ratul?tab=repositories"><img width="100%" height="auto" height="375px" alt="Saruf-Ratul's Activity Graph" src="https://wakatime.com/share/@9f55adf6-fad8-403c-9022-156d2e9ba31a/128b6c40-5e00-40d4-a481-8129161d1774.svg"/></a>
+<a href="https://github.com/Saruf-Ratul?tab=repositories"><img width="100%" height="375px" alt="Saruf-Ratul's Activity Graph" src="https://wakatime.com/share/@9f55adf6-fad8-403c-9022-156d2e9ba31a/128b6c40-5e00-40d4-a481-8129161d1774.svg"/></a>
 
 ## Connect with me:
 <p align="left">
