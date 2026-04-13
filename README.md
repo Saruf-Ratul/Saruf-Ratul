@@ -51,8 +51,8 @@
 
 ### 📊 GitHub Insights
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saruf-Ratul&show_icons=true&theme=material-palenight&hide_border=true&icon_color=F5A623" width="98%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saruf-Ratul&layout=compact&theme=material-palenight&hide_border=true" width="98%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Saruf-Ratul&show_icons=true&theme=material-palenight&hide_border=true&icon_color=F5A623" width="98%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Saruf-Ratul&layout=compact&theme=material-palenight&hide_border=true" width="98%"/>
 </div>
 
 <div align="center">
