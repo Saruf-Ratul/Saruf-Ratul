@@ -2,13 +2,9 @@
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 
-<table align="center" width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <img src="./assets/hero.svg" width="100%" alt="Saruf Ratul - Director of Engineering, Full-Stack Architect" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Saruf Ratul - Director of Engineering, Full-Stack Architect" />
+</p>
 
 <p align="center">
   <img src="./assets/hello.svg" width="100%" alt="Hey, I'm Saruf Ratul" />
