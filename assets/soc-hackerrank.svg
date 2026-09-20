@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44" role="img" aria-label="HackerRank">
+  <rect width="44" height="44" rx="10" fill="#0B1220"/>
+  <path fill="#00EA64" d="M22 8.5 8.8 16.2v11.6L22 35.5l13.2-7.7V16.2L22 8.5zm0 3.4 9.4 5.5v9.2L22 32.1l-9.4-5.5v-9.2L22 11.9z"/>
+  <path fill="#00EA64" d="M18.4 17.2h2.2v3.2h3V17.2h2.2V26.8H23.6v-4.2h-3v4.2h-2.2z"/>
+</svg>

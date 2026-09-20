@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44" role="img" aria-label="LeetCode">
+  <rect width="44" height="44" rx="10" fill="#0B1220"/>
+  <path fill="none" stroke="#FFA116" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" d="M24.6 12.4 16 21l8.6 8.6"/>
+  <path fill="none" stroke="#F8FAFC" stroke-width="2.6" stroke-linecap="round" d="M21.2 21H31"/>
+  <path fill="none" stroke="#34D399" stroke-width="2.6" stroke-linecap="round" d="M18.6 31.2c-3.6-1.8-5.4-5.4-4.4-9.2.8-3 3-5.2 5.8-6.2"/>
+</svg>

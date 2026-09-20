@@ -33,14 +33,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/saruf-ratul/"><img src="https://skillicons.dev/icons?i=linkedin" width="44" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/saruf_ratul"><img src="https://skillicons.dev/icons?i=twitter" width="44" alt="X / Twitter" /></a>
-  <a href="https://www.instagram.com/eng.saruf_ratul/"><img src="https://skillicons.dev/icons?i=instagram" width="44" alt="Instagram" /></a>
-  <a href="mailto:saruftoratul95@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="44" alt="Email" /></a>
-  <a href="https://github.com/Saruf-Ratul"><img src="https://skillicons.dev/icons?i=github" width="44" alt="GitHub" /></a>
-</p>
-
-<p align="center">
   <img src="./assets/ticker.svg" width="100%" alt="Technology and product ticker" />
 </p>
 
@@ -220,11 +212,15 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/saruf-ratul/"><img src="https://skillicons.dev/icons?i=linkedin" width="44" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/saruf_ratul"><img src="https://skillicons.dev/icons?i=twitter" width="44" alt="X / Twitter" /></a>
-  <a href="https://www.instagram.com/eng.saruf_ratul/"><img src="https://skillicons.dev/icons?i=instagram" width="44" alt="Instagram" /></a>
-  <a href="mailto:saruftoratul95@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="44" alt="Email" /></a>
-  <a href="https://github.com/Saruf-Ratul"><img src="https://skillicons.dev/icons?i=github" width="44" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/saruf-ratul/"><img src="./assets/soc-linkedin.svg" width="44" height="44" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/saruf_ratul"><img src="./assets/soc-x.svg" width="44" height="44" alt="X" /></a>
+  <a href="https://www.instagram.com/eng.saruf_ratul/"><img src="./assets/soc-instagram.svg" width="44" height="44" alt="Instagram" /></a>
+  <a href="https://github.com/Saruf-Ratul"><img src="./assets/soc-github.svg" width="44" height="44" alt="GitHub" /></a>
+  <a href="mailto:saruftoratul95@gmail.com"><img src="./assets/soc-gmail.svg" width="44" height="44" alt="Email" /></a>
+  <a href="https://www.youtube.com/channel/UCyRC4vA65U-LoaeiuhnDcAw"><img src="./assets/soc-youtube.svg" width="44" height="44" alt="YouTube" /></a>
+  <a href="https://sarufratul.me"><img src="./assets/soc-web.svg" width="44" height="44" alt="Portfolio" /></a>
+  <a href="https://www.hackerrank.com/saruf_ratul"><img src="./assets/soc-hackerrank.svg" width="44" height="44" alt="HackerRank" /></a>
+  <a href="https://leetcode.com/saruftoratul95/"><img src="./assets/soc-leetcode.svg" width="44" height="44" alt="LeetCode" /></a>
 </p>
 
 <p align="center">

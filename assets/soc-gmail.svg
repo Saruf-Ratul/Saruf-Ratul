@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44" role="img" aria-label="Email">
+  <rect width="44" height="44" rx="10" fill="#EA4335"/>
+  <path fill="#FFFFFF" d="M10 15.2v13.6c0 1 .8 1.8 1.8 1.8h3.4V21.1L22 26.4l6.8-5.3v9.5h3.4c1 0 1.8-.8 1.8-1.8V15.2L22 23.2 10 15.2z"/>
+  <path fill="#FFFFFF" d="M10.6 13.4 22 21.4l11.4-8H12.4c-1 0-1.8.8-1.8 1.8v.2z"/>
+</svg>
