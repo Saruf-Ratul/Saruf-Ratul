@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="64" viewBox="0 0 1200 64" role="img" aria-label="Selected work">
+  <defs>
+    <symbol id="ic" viewBox="0 0 24 24"><path d="M12 3l9 5-9 5-9-5z"/><path d="M3 13l9 5 9-5M3 17l9 5 9-5"/></symbol>
+  </defs>
+  <rect width="1200" height="64" fill="#05070D"/>
+  <text x="40" y="37" fill="#E8C872" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" letter-spacing="3" font-weight="700">02</text>
+  <circle cx="92" cy="32" r="17" fill="#0B1220" stroke="#243049"/>
+  <g fill="none" stroke="#E8C872" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="80" stroke-dashoffset="80">
+    <animate attributeName="stroke-dashoffset" from="80" to="0" dur="1.4s" fill="freeze"/>
+    <use xlink:href="#ic" x="82" y="22" width="20" height="20"/>
+  </g>
+  <text x="126" y="37" fill="#F8FAFC" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" letter-spacing="4" font-weight="700">SELECTED WORK</text>
+  <line x1="400" y1="32" x2="1160" y2="32" stroke="#243049" stroke-width="1.5" stroke-dasharray="760" stroke-dashoffset="760">
+    <animate attributeName="stroke-dashoffset" from="760" to="0" dur="1.6s" fill="freeze"/>
+  </line>
+  <circle cy="32" r="3" fill="#E8C872">
+    <animate attributeName="cx" values="400;1160" dur="3.2s" begin="1.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="3.2s" begin="1.2s" repeatCount="indefinite"/>
+  </circle>
+</svg>

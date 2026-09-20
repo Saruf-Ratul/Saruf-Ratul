@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="72" viewBox="0 0 1200 72" role="img" aria-label="Hey, I'm Saruf Ratul">
+  <rect width="1200" height="72" fill="#05070D"/>
+  <text x="600" y="46" text-anchor="middle" fill="#F8FAFC" font-family="Georgia, Times New Roman, serif" font-size="30" font-weight="700">Hey, I'm Saruf Ratul</text>
+  <g transform="translate(812 20)">
+    <g>
+      <path d="M6 22 C6 10, 18 10, 18 22" fill="none" stroke="#E8C872" stroke-width="2.6" stroke-linecap="round"/>
+      <path d="M18 22 v-10" fill="none" stroke="#E8C872" stroke-width="2.6" stroke-linecap="round"/>
+      <animateTransform attributeName="transform" type="rotate" values="0 12 22;22 12 22;0 12 22;-16 12 22;0 12 22" dur="1.5s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>

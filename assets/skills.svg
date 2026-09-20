@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="Depth by technology">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#05070D"/><stop offset="1" stop-color="#0B1220"/></linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8A6A1F"/><stop offset="1" stop-color="#F4D78A"/></linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0E7490"/><stop offset="1" stop-color="#5EEAD4"/></linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.14"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
+    <clipPath id="frame"><rect width="1200" height="380" rx="22"/></clipPath>
+    <clipPath id="left"><rect x="40" y="96" width="540" height="230"/></clipPath>
+    <clipPath id="right"><rect x="620" y="96" width="540" height="230"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <rect width="1200" height="380" fill="url(#bg)"/>
+    <rect width="1200" height="380" fill="none" stroke="#243049" stroke-width="2"/>
+    <text x="40" y="44" fill="#E8C872" font-size="11" letter-spacing="3" font-weight="700">DEPTH BY TECHNOLOGY</text>
+    <text x="40" y="70" fill="#8B9BB4" font-size="13">Approximate years in production, 2018 to 2026. Bars scale to 8 years.</text>
+
+    <g font-size="13">
+      <text x="40" y="108" fill="#F8FAFC">C# / .NET</text><text x="580" y="108" fill="#E8C872" font-size="12" text-anchor="end">8 yrs</text>
+      <rect x="40" y="116" width="540" height="6" rx="3" fill="#1B2536"/><rect x="40" y="116" width="0" height="6" rx="3" fill="url(#gold)"><animate attributeName="width" from="0" to="540" dur="1.4s" begin="0.2s" fill="freeze"/></rect>
+
+      <text x="40" y="156" fill="#F8FAFC">SQL Server / T-SQL</text><text x="580" y="156" fill="#E8C872" font-size="12" text-anchor="end">8 yrs</text>
+      <rect x="40" y="164" width="540" height="6" rx="3" fill="#1B2536"/><rect x="40" y="164" width="0" height="6" rx="3" fill="url(#gold)"><animate attributeName="width" from="0" to="540" dur="1.4s" begin="0.35s" fill="freeze"/></rect>
+
+      <text x="40" y="204" fill="#F8FAFC">Angular / TypeScript</text><text x="580" y="204" fill="#E8C872" font-size="12" text-anchor="end">6 yrs</text>
+      <rect x="40" y="212" width="540" height="6" rx="3" fill="#1B2536"/><rect x="40" y="212" width="0" height="6" rx="3" fill="url(#gold)"><animate attributeName="width" from="0" to="405" dur="1.4s" begin="0.5s" fill="freeze"/></rect>
+
+      <text x="40" y="252" fill="#F8FAFC">ASP.NET Core Web API</text><text x="580" y="252" fill="#E8C872" font-size="12" text-anchor="end">6 yrs</text>
+      <rect x="40" y="260" width="540" height="6" rx="3" fill="#1B2536"/><rect x="40" y="260" width="0" height="6" rx="3" fill="url(#gold)"><animate attributeName="width" from="0" to="405" dur="1.4s" begin="0.65s" fill="freeze"/></rect>
+
+      <text x="40" y="300" fill="#F8FAFC">Node.js</text><text x="580" y="300" fill="#E8C872" font-size="12" text-anchor="end">5 yrs</text>
+      <rect x="40" y="308" width="540" height="6" rx="3" fill="#1B2536"/><rect x="40" y="308" width="0" height="6" rx="3" fill="url(#gold)"><animate attributeName="width" from="0" to="338" dur="1.4s" begin="0.8s" fill="freeze"/></rect>
+
+      <text x="620" y="108" fill="#F8FAFC">React</text><text x="1160" y="108" fill="#5EEAD4" font-size="12" text-anchor="end">4 yrs</text>
+      <rect x="620" y="116" width="540" height="6" rx="3" fill="#1B2536"/><rect x="620" y="116" width="0" height="6" rx="3" fill="url(#cyan)"><animate attributeName="width" from="0" to="270" dur="1.4s" begin="0.3s" fill="freeze"/></rect>
+
+      <text x="620" y="156" fill="#F8FAFC">Oracle Database</text><text x="1160" y="156" fill="#5EEAD4" font-size="12" text-anchor="end">3 yrs</text>
+      <rect x="620" y="164" width="540" height="6" rx="3" fill="#1B2536"/><rect x="620" y="164" width="0" height="6" rx="3" fill="url(#cyan)"><animate attributeName="width" from="0" to="203" dur="1.4s" begin="0.45s" fill="freeze"/></rect>
+
+      <text x="620" y="204" fill="#F8FAFC">Azure / AWS / IIS</text><text x="1160" y="204" fill="#5EEAD4" font-size="12" text-anchor="end">3 yrs</text>
+      <rect x="620" y="212" width="540" height="6" rx="3" fill="#1B2536"/><rect x="620" y="212" width="0" height="6" rx="3" fill="url(#cyan)"><animate attributeName="width" from="0" to="203" dur="1.4s" begin="0.6s" fill="freeze"/></rect>
+
+      <text x="620" y="252" fill="#F8FAFC">QuickBooks API</text><text x="1160" y="252" fill="#5EEAD4" font-size="12" text-anchor="end">2 yrs</text>
+      <rect x="620" y="260" width="540" height="6" rx="3" fill="#1B2536"/><rect x="620" y="260" width="0" height="6" rx="3" fill="url(#cyan)"><animate attributeName="width" from="0" to="135" dur="1.4s" begin="0.75s" fill="freeze"/></rect>
+
+      <text x="620" y="300" fill="#F8FAFC">Payments (Clearent)</text><text x="1160" y="300" fill="#5EEAD4" font-size="12" text-anchor="end">2 yrs</text>
+      <rect x="620" y="308" width="540" height="6" rx="3" fill="#1B2536"/><rect x="620" y="308" width="0" height="6" rx="3" fill="url(#cyan)"><animate attributeName="width" from="0" to="135" dur="1.4s" begin="0.9s" fill="freeze"/></rect>
+    </g>
+
+    <g clip-path="url(#left)"><rect x="-90" y="96" width="90" height="230" fill="url(#glow)"><animate attributeName="x" values="-90;600" dur="3.2s" begin="1.8s" repeatCount="indefinite"/></rect></g>
+    <g clip-path="url(#right)"><rect x="500" y="96" width="90" height="230" fill="url(#glow)"><animate attributeName="x" values="500;1180" dur="3.2s" begin="2.6s" repeatCount="indefinite"/></rect></g>
+
+    <text x="40" y="352" fill="#6B7A94" font-size="11" letter-spacing="1.5">ALSO IN USE:  BLAZOR  |  POWER BI  |  CRYSTAL REPORTS  |  MONGODB  |  POSTGRESQL  |  DOCKER  |  GIT</text>
+  </g>
+</svg>

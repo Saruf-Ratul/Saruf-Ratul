@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="Recruiting Path and Franchise Mini ERP">
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1220"/><stop offset="1" stop-color="#070B14"/></linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.08"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
+    <clipPath id="a"><rect x="0" y="0" width="580" height="240" rx="20"/></clipPath>
+    <clipPath id="b"><rect x="620" y="0" width="580" height="240" rx="20"/></clipPath>
+    <symbol id="i-users" viewBox="0 0 24 24"><circle cx="9" cy="8" r="3.2"/><path d="M3 20a6 6 0 0 1 12 0"/><circle cx="17" cy="9" r="2.6"/><path d="M15.5 20a5.2 5.2 0 0 1 6.5-4.6"/></symbol>
+    <symbol id="i-build" viewBox="0 0 24 24"><rect x="4" y="3" width="16" height="18" rx="1.5"/><path d="M8 7h2M14 7h2M8 11h2M14 11h2M8 15h2M14 15h2M10 21v-3h4v3"/></symbol>
+  </defs>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <g clip-path="url(#a)">
+      <rect width="580" height="240" fill="url(#card)"/>
+      <rect width="580" height="240" fill="none" stroke="#243049" stroke-width="2"/>
+      <rect width="6" height="240" fill="#E8C872"/>
+      <rect x="-200" width="160" height="240" fill="url(#shine)"><animate attributeName="x" values="-200;620" dur="4s" repeatCount="indefinite"/></rect>
+      <text x="32" y="42" fill="#E8C872" font-size="11" letter-spacing="2.6" font-weight="700">01   /   XCELERAN</text>
+      <text x="32" y="88" fill="#F8FAFC" font-family="Georgia, Times New Roman, serif" font-size="26">Recruiting Path</text>
+      <text x="32" y="124" fill="#9AA8BF" font-size="14">Applicant tracking and employer onboarding for franchise</text>
+      <text x="32" y="146" fill="#9AA8BF" font-size="14">networks. Partner membership, pipelines, reporting.</text>
+      <g fill="#111827" stroke="#334155"><rect x="32" y="176" width="78" height="26" rx="13"/><rect x="118" y="176" width="74" height="26" rx="13"/><rect x="200" y="176" width="92" height="26" rx="13"/></g>
+      <g fill="#E8EEF8" font-size="11" text-anchor="middle"><text x="71" y="194">ASP.NET</text><text x="155" y="194">Angular</text><text x="246" y="194">SQL Server</text></g>
+      <circle cx="520" cy="64" r="28" fill="#070B14" stroke="#E8C872"/>
+      <circle cx="520" cy="64" r="28" fill="none" stroke="#E8C872"><animate attributeName="r" values="28;42" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.7;0" dur="2.4s" repeatCount="indefinite"/></circle>
+      <g fill="none" stroke="#E8C872" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><use xlink:href="#i-users" x="506" y="50" width="28" height="28"/></g>
+      <rect x="452" y="188" width="96" height="24" rx="12" fill="#0F1F19" stroke="#34D399"/>
+      <circle cx="468" cy="200" r="3.5" fill="#34D399"><animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite"/></circle>
+      <text x="480" y="204" fill="#ECFDF5" font-size="10" letter-spacing="2" font-weight="700">LIVE</text>
+    </g>
+
+    <g clip-path="url(#b)">
+      <rect x="620" width="580" height="240" fill="url(#card)"/>
+      <rect x="620" width="580" height="240" fill="none" stroke="#243049" stroke-width="2"/>
+      <rect x="620" width="6" height="240" fill="#5EEAD4"/>
+      <rect x="420" width="160" height="240" fill="url(#shine)"><animate attributeName="x" values="420;1240" dur="4s" begin="1.2s" repeatCount="indefinite"/></rect>
+      <text x="652" y="42" fill="#5EEAD4" font-size="11" letter-spacing="2.6" font-weight="700">02   /   XCELERAN</text>
+      <text x="652" y="88" fill="#F8FAFC" font-family="Georgia, Times New Roman, serif" font-size="26">Franchise Mini ERP</text>
+      <text x="652" y="124" fill="#9AA8BF" font-size="14">Franchisee and franchisor operations: finance, multi-</text>
+      <text x="652" y="146" fill="#9AA8BF" font-size="14">location control, and KPI visibility without spreadsheets.</text>
+      <g fill="#111827" stroke="#334155"><rect x="652" y="176" width="78" height="26" rx="13"/><rect x="738" y="176" width="66" height="26" rx="13"/><rect x="812" y="176" width="62" height="26" rx="13"/></g>
+      <g fill="#E8EEF8" font-size="11" text-anchor="middle"><text x="691" y="194">ASP.NET</text><text x="771" y="194">Blazor</text><text x="843" y="194">Azure</text></g>
+      <circle cx="1140" cy="64" r="28" fill="#070B14" stroke="#5EEAD4"/>
+      <circle cx="1140" cy="64" r="28" fill="none" stroke="#5EEAD4"><animate attributeName="r" values="28;42" dur="2.4s" begin="1.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.7;0" dur="2.4s" begin="1.2s" repeatCount="indefinite"/></circle>
+      <g fill="none" stroke="#5EEAD4" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><use xlink:href="#i-build" x="1126" y="50" width="28" height="28"/></g>
+      <rect x="1072" y="188" width="96" height="24" rx="12" fill="#0F1F19" stroke="#34D399"/>
+      <circle cx="1088" cy="200" r="3.5" fill="#34D399"><animate attributeName="opacity" values="1;0.2;1" dur="1.4s" begin="0.7s" repeatCount="indefinite"/></circle>
+      <text x="1100" y="204" fill="#ECFDF5" font-size="10" letter-spacing="2" font-weight="700">LIVE</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-label="Saruf Ratul - Director of Engineering">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#04060B"/>
+      <stop offset="0.55" stop-color="#0A1020"/>
+      <stop offset="1" stop-color="#070B14"/>
+    </linearGradient>
+    <radialGradient id="blobA"><stop offset="0" stop-color="#7C5CFF" stop-opacity="0.34"/><stop offset="1" stop-color="#7C5CFF" stop-opacity="0"/></radialGradient>
+    <radialGradient id="blobB"><stop offset="0" stop-color="#22D3EE" stop-opacity="0.26"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+    <radialGradient id="blobC"><stop offset="0" stop-color="#E8C872" stop-opacity="0.18"/><stop offset="1" stop-color="#E8C872" stop-opacity="0"/></radialGradient>
+    <linearGradient id="shine" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="420" y2="0">
+      <stop offset="0" stop-color="#E8C872"/>
+      <stop offset="0.5" stop-color="#FFF7DC"/>
+      <stop offset="1" stop-color="#E8C872"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-420 0" to="700 0" dur="3.6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8A6A1F"/><stop offset="0.5" stop-color="#F4D78A"/><stop offset="1" stop-color="#8A6A1F"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#F8FAFC" stroke-opacity="0.035"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="560" rx="28"/></clipPath>
+    <symbol id="i-layers" viewBox="0 0 24 24"><path d="M12 3l9 5-9 5-9-5z"/><path d="M3 13l9 5 9-5M3 17l9 5 9-5"/></symbol>
+  </defs>
+
+  <g clip-path="url(#frame)" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <rect width="1200" height="560" fill="url(#bg)"/>
+    <rect width="1200" height="560" fill="url(#grid)"/>
+
+    <circle cx="240" cy="120" r="300" fill="url(#blobA)">
+      <animate attributeName="cx" values="200;320;200" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="100;180;100" dur="11s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="980" cy="120" r="260" fill="url(#blobB)">
+      <animate attributeName="cx" values="1000;900;1000" dur="16s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="120;220;120" dur="12s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="600" cy="560" r="320" fill="url(#blobC)">
+      <animate attributeName="cx" values="500;700;500" dur="18s" repeatCount="indefinite"/>
+    </circle>
+
+    <rect x="0" y="-60" width="1200" height="60" fill="#F4D78A" fill-opacity="0.05">
+      <animate attributeName="y" values="-60;560" dur="7s" repeatCount="indefinite"/>
+    </rect>
+
+    <g transform="translate(600 168)">
+      <circle r="150" fill="none" stroke="#2A3550" stroke-dasharray="4 10" opacity="0.55">
+        <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="60s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="108" fill="none" stroke="#33415C" opacity="0.45"/>
+      <circle r="4" fill="#E8C872">
+        <animateMotion dur="8s" repeatCount="indefinite" path="M108 0 A108 108 0 1 1 -108 0 A108 108 0 1 1 108 0"/>
+      </circle>
+      <circle r="3" fill="#5EEAD4">
+        <animateMotion dur="8s" begin="4s" repeatCount="indefinite" path="M108 0 A108 108 0 1 1 -108 0 A108 108 0 1 1 108 0"/>
+      </circle>
+    </g>
+
+    <text x="600" y="72" text-anchor="middle" fill="#E8C872" font-size="12" letter-spacing="4" font-weight="700">ENGINEERING LEADERSHIP   |   DHAKA, BANGLADESH   |   2026</text>
+
+    <text x="600" y="168" text-anchor="middle" fill="url(#shine)" font-family="Georgia, Times New Roman, serif" font-size="64" font-weight="700">SARUF RATUL</text>
+    <rect x="390" y="186" height="2" width="420" fill="url(#gold)">
+      <animate attributeName="width" values="320;420;320" dur="3.2s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="440;390;440" dur="3.2s" repeatCount="indefinite"/>
+    </rect>
+
+    <text x="600" y="230" text-anchor="middle" fill="#F1F5F9" font-size="20">Director of Engineering   |   Full-Stack Architect</text>
+    <text x="600" y="264" text-anchor="middle" fill="#B8C4D6" font-family="Georgia, Times New Roman, serif" font-size="17" font-style="italic">I architect the systems that run revenue, inventory, and hiring.</text>
+    <text x="600" y="294" text-anchor="middle" fill="#8B9BB4" font-size="12" letter-spacing="1.6">XCELERAN (USA)   |   NAVANA GROUP / TOYOTA BANGLADESH</text>
+
+    <rect x="420" y="322" width="360" height="40" rx="20" fill="#0F1F19" stroke="#34D399" stroke-dasharray="10 6">
+      <animate attributeName="stroke-dashoffset" from="0" to="-32" dur="1.6s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="448" cy="342" r="5" fill="#34D399">
+      <animate attributeName="opacity" values="1;0.25;1" dur="1.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="448" cy="342" r="5" fill="none" stroke="#34D399">
+      <animate attributeName="r" values="5;13" dur="1.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.8;0" dur="1.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="612" y="347" text-anchor="middle" fill="#ECFDF5" font-size="12" letter-spacing="1.6">OPEN TO GLOBAL LEADERSHIP ROLES</text>
+
+    <g>
+      <rect x="366" y="386" width="68" height="26" rx="13" fill="#0B1220" stroke="#5EEAD4"/>
+      <text x="400" y="403" text-anchor="middle" fill="#5EEAD4" font-size="10" letter-spacing="2" font-weight="700">UI</text>
+      <rect x="446" y="386" width="68" height="26" rx="13" fill="#0B1220" stroke="#E8C872"/>
+      <text x="480" y="403" text-anchor="middle" fill="#E8C872" font-size="10" letter-spacing="2" font-weight="700">API</text>
+      <rect x="526" y="386" width="68" height="26" rx="13" fill="#0B1220" stroke="#A78BFA"/>
+      <text x="560" y="403" text-anchor="middle" fill="#A78BFA" font-size="10" letter-spacing="2" font-weight="700">DATA</text>
+      <rect x="606" y="386" width="88" height="26" rx="13" fill="#0B1220" stroke="#F8FAFC"/>
+      <text x="650" y="403" text-anchor="middle" fill="#F8FAFC" font-size="10" letter-spacing="2" font-weight="700">CLOUD</text>
+      <rect x="706" y="386" width="128" height="26" rx="13" fill="#0B1220" stroke="#34D399"/>
+      <text x="770" y="403" text-anchor="middle" fill="#34D399" font-size="10" letter-spacing="1.5" font-weight="700">END-TO-END</text>
+    </g>
+
+    <line x1="64" y1="436" x2="1136" y2="436" stroke="#243049" stroke-width="1.5" stroke-dasharray="1072" stroke-dashoffset="0">
+      <animate attributeName="stroke-dashoffset" from="1072" to="0" dur="1.8s" begin="0.2s" fill="freeze"/>
+    </line>
+
+    <g>
+      <text x="150" y="488" text-anchor="middle" fill="#E8C872" font-family="Georgia, Times New Roman, serif" font-size="30">7+</text>
+      <text x="150" y="512" text-anchor="middle" fill="#8B9BB4" font-size="11" letter-spacing="2">YEARS SHIPPING</text>
+      <rect x="90" y="522" width="120" height="2" fill="#E8C872"><animate attributeName="width" values="80;120;80" dur="3s" repeatCount="indefinite"/></rect>
+      <text x="450" y="488" text-anchor="middle" fill="#5EEAD4" font-family="Georgia, Times New Roman, serif" font-size="30">2</text>
+      <text x="450" y="512" text-anchor="middle" fill="#8B9BB4" font-size="11" letter-spacing="2">LEADERSHIP ROLES</text>
+      <rect x="390" y="522" width="120" height="2" fill="#5EEAD4"><animate attributeName="width" values="80;120;80" dur="3s" begin="0.4s" repeatCount="indefinite"/></rect>
+      <text x="750" y="488" text-anchor="middle" fill="#A78BFA" font-family="Georgia, Times New Roman, serif" font-size="30">10+</text>
+      <text x="750" y="512" text-anchor="middle" fill="#8B9BB4" font-size="11" letter-spacing="2">PRODUCTION SYSTEMS</text>
+      <rect x="690" y="522" width="120" height="2" fill="#A78BFA"><animate attributeName="width" values="80;120;80" dur="3s" begin="0.8s" repeatCount="indefinite"/></rect>
+      <text x="1050" y="488" text-anchor="middle" fill="#F8FAFC" font-family="Georgia, Times New Roman, serif" font-size="30">150+</text>
+      <text x="1050" y="512" text-anchor="middle" fill="#8B9BB4" font-size="11" letter-spacing="2">PUBLIC REPOSITORIES</text>
+      <rect x="990" y="522" width="120" height="2" fill="#F8FAFC"><animate attributeName="width" values="80;120;80" dur="3s" begin="1.2s" repeatCount="indefinite"/></rect>
+    </g>
+  </g>
+</svg>

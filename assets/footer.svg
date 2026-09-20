@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="Footer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#05070D"/><stop offset="1" stop-color="#0B1220"/></linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7C5CFF" stop-opacity="0"/><stop offset="0.35" stop-color="#E8C872" stop-opacity="0.8"/><stop offset="0.7" stop-color="#5EEAD4" stop-opacity="0.8"/><stop offset="1" stop-color="#7C5CFF" stop-opacity="0"/></linearGradient>
+    <clipPath id="frame"><rect width="1200" height="120" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <rect width="1200" height="120" fill="url(#bg)"/>
+    <path fill="none" stroke="url(#wave)" stroke-width="1.6" d="M0,70 C150,40 300,100 450,70 C600,40 750,100 900,70 C1050,40 1150,90 1200,70">
+      <animate attributeName="d" dur="6s" repeatCount="indefinite" values="M0,70 C150,40 300,100 450,70 C600,40 750,100 900,70 C1050,40 1150,90 1200,70;M0,70 C150,100 300,40 450,70 C600,100 750,40 900,70 C1050,100 1150,50 1200,70;M0,70 C150,40 300,100 450,70 C600,40 750,100 900,70 C1050,40 1150,90 1200,70"/>
+    </path>
+    <path fill="none" stroke="#A78BFA" stroke-opacity="0.3" stroke-width="1.2" d="M0,82 C200,110 400,50 600,82 C800,114 1000,50 1200,82">
+      <animate attributeName="d" dur="7.5s" repeatCount="indefinite" values="M0,82 C200,110 400,50 600,82 C800,114 1000,50 1200,82;M0,82 C200,50 400,110 600,82 C800,50 1000,110 1200,82;M0,82 C200,110 400,50 600,82 C800,114 1000,50 1200,82"/>
+    </path>
+    <text x="600" y="42" text-anchor="middle" fill="#8B9BB4" font-size="12" letter-spacing="3">SARUF RATUL   |   ENGINEERING WITH TASTE</text>
+    <text x="600" y="102" text-anchor="middle" fill="#5B6A82" font-size="11">Designed for GitHub light and dark  |  Built 2026</text>
+  </g>
+</svg>

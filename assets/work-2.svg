@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="QuickBooks KPI Dashboards and Clearent Gateway">
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1220"/><stop offset="1" stop-color="#070B14"/></linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.08"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
+    <clipPath id="a"><rect x="0" y="0" width="580" height="240" rx="20"/></clipPath>
+    <clipPath id="b"><rect x="620" y="0" width="580" height="240" rx="20"/></clipPath>
+    <symbol id="i-chart" viewBox="0 0 24 24"><path d="M3 20h18M6 17v-6M11 17V6M16 17v-8M21 17V4"/></symbol>
+    <symbol id="i-card" viewBox="0 0 24 24"><rect x="2" y="5" width="20" height="14" rx="2.2"/><path d="M2 10h20M6 15h4"/></symbol>
+  </defs>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <g clip-path="url(#a)">
+      <rect width="580" height="240" fill="url(#card)"/>
+      <rect width="580" height="240" fill="none" stroke="#243049" stroke-width="2"/>
+      <rect width="6" height="240" fill="#A78BFA"/>
+      <rect x="-200" width="160" height="240" fill="url(#shine)"><animate attributeName="x" values="-200;620" dur="4s" begin="0.4s" repeatCount="indefinite"/></rect>
+      <text x="32" y="42" fill="#A78BFA" font-size="11" letter-spacing="2.6" font-weight="700">03   /   FINTECH</text>
+      <text x="32" y="88" fill="#F8FAFC" font-family="Georgia, Times New Roman, serif" font-size="26">QuickBooks KPI Dashboards</text>
+      <text x="32" y="124" fill="#9AA8BF" font-size="14">Live financials synced from QuickBooks into admin and</text>
+      <text x="32" y="146" fill="#9AA8BF" font-size="14">franchise dashboards. Decision-ready KPIs, not exports.</text>
+      <g fill="#111827" stroke="#334155"><rect x="32" y="176" width="112" height="26" rx="13"/><rect x="152" y="176" width="92" height="26" rx="13"/><rect x="252" y="176" width="84" height="26" rx="13"/></g>
+      <g fill="#E8EEF8" font-size="11" text-anchor="middle"><text x="88" y="194">QuickBooks API</text><text x="198" y="194">SQL Server</text><text x="294" y="194">Reporting</text></g>
+      <circle cx="520" cy="64" r="28" fill="#070B14" stroke="#A78BFA"/>
+      <circle cx="520" cy="64" r="28" fill="none" stroke="#A78BFA"><animate attributeName="r" values="28;42" dur="2.4s" begin="0.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.7;0" dur="2.4s" begin="0.4s" repeatCount="indefinite"/></circle>
+      <g fill="none" stroke="#A78BFA" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><use xlink:href="#i-chart" x="506" y="50" width="28" height="28"/></g>
+      <rect x="452" y="188" width="96" height="24" rx="12" fill="#0F1F19" stroke="#34D399"/>
+      <circle cx="468" cy="200" r="3.5" fill="#34D399"><animate attributeName="opacity" values="1;0.2;1" dur="1.4s" begin="0.3s" repeatCount="indefinite"/></circle>
+      <text x="480" y="204" fill="#ECFDF5" font-size="10" letter-spacing="2" font-weight="700">LIVE</text>
+    </g>
+
+    <g clip-path="url(#b)">
+      <rect x="620" width="580" height="240" fill="url(#card)"/>
+      <rect x="620" width="580" height="240" fill="none" stroke="#243049" stroke-width="2"/>
+      <rect x="620" width="6" height="240" fill="#F87171"/>
+      <rect x="420" width="160" height="240" fill="url(#shine)"><animate attributeName="x" values="420;1240" dur="4s" begin="1.6s" repeatCount="indefinite"/></rect>
+      <text x="652" y="42" fill="#F87171" font-size="11" letter-spacing="2.6" font-weight="700">04   /   PAYMENTS</text>
+      <text x="652" y="88" fill="#F8FAFC" font-family="Georgia, Times New Roman, serif" font-size="26">Clearent Gateway</text>
+      <text x="652" y="124" fill="#9AA8BF" font-size="14">Tokenized card checkout inside ASP.NET MVC with</text>
+      <text x="652" y="146" fill="#9AA8BF" font-size="14">settlement-safe payment flows and audit trails.</text>
+      <g fill="#111827" stroke="#334155"><rect x="652" y="176" width="104" height="26" rx="13"/><rect x="764" y="176" width="104" height="26" rx="13"/><rect x="876" y="176" width="76" height="26" rx="13"/></g>
+      <g fill="#E8EEF8" font-size="11" text-anchor="middle"><text x="704" y="194">Clearent SDK</text><text x="816" y="194">ASP.NET MVC</text><text x="914" y="194">Security</text></g>
+      <circle cx="1140" cy="64" r="28" fill="#070B14" stroke="#F87171"/>
+      <circle cx="1140" cy="64" r="28" fill="none" stroke="#F87171"><animate attributeName="r" values="28;42" dur="2.4s" begin="1.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.7;0" dur="2.4s" begin="1.6s" repeatCount="indefinite"/></circle>
+      <g fill="none" stroke="#F87171" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><use xlink:href="#i-card" x="1126" y="50" width="28" height="28"/></g>
+      <rect x="1072" y="188" width="96" height="24" rx="12" fill="#0F1F19" stroke="#34D399"/>
+      <circle cx="1088" cy="200" r="3.5" fill="#34D399"><animate attributeName="opacity" values="1;0.2;1" dur="1.4s" begin="1s" repeatCount="indefinite"/></circle>
+      <text x="1100" y="204" fill="#ECFDF5" font-size="10" letter-spacing="2" font-weight="700">LIVE</text>
+    </g>
+  </g>
+</svg>

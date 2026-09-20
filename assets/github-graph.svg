@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Contribution rhythm">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#05070D"/><stop offset="1" stop-color="#0B1220"/></linearGradient>
+    <linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E8C872" stop-opacity="0.55"/><stop offset="1" stop-color="#E8C872" stop-opacity="0.02"/></linearGradient>
+    <clipPath id="frame"><rect width="1200" height="260" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <rect width="1200" height="260" fill="url(#bg)"/>
+    <rect width="1200" height="260" fill="none" stroke="#243049" stroke-width="2"/>
+    <text x="40" y="40" fill="#E8C872" font-size="14" font-weight="700">Contribution rhythm</text>
+    <text x="1160" y="40" text-anchor="end" fill="#8B9BB4" font-size="12">Public GitHub activity</text>
+
+    <g stroke="#1B2536" stroke-width="1">
+      <line x1="40" y1="72" x2="1160" y2="72"/>
+      <line x1="40" y1="118" x2="1160" y2="118"/>
+      <line x1="40" y1="164" x2="1160" y2="164"/>
+      <line x1="40" y1="210" x2="1160" y2="210"/>
+    </g>
+
+    <path d="M40 198 L130 186 L220 170 L310 176 L400 148 L490 132 L580 140 L670 112 L760 124 L850 96 L940 108 L1030 84 L1120 92 L1160 80 L1160 210 L40 210 Z" fill="url(#area)" opacity="1">
+      <animate attributeName="opacity" from="0" to="1" dur="0.8s" fill="freeze"/>
+    </path>
+    <path d="M40 198 L130 186 L220 170 L310 176 L400 148 L490 132 L580 140 L670 112 L760 124 L850 96 L940 108 L1030 84 L1120 92 L1160 80" fill="none" stroke="#E8C872" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1400" stroke-dashoffset="0">
+      <animate attributeName="stroke-dashoffset" from="1400" to="0" dur="2.4s" fill="freeze"/>
+    </path>
+
+    <circle r="5" fill="#5EEAD4">
+      <animateMotion dur="4.8s" repeatCount="indefinite" path="M40 198 L130 186 L220 170 L310 176 L400 148 L490 132 L580 140 L670 112 L760 124 L850 96 L940 108 L1030 84 L1120 92 L1160 80"/>
+    </circle>
+    <circle r="12" fill="#5EEAD4" opacity="0.18">
+      <animateMotion dur="4.8s" repeatCount="indefinite" path="M40 198 L130 186 L220 170 L310 176 L400 148 L490 132 L580 140 L670 112 L760 124 L850 96 L940 108 L1030 84 L1120 92 L1160 80"/>
+    </circle>
+
+    <text x="40" y="236" fill="#8B9BB4" font-size="11">2018</text>
+    <text x="310" y="236" fill="#8B9BB4" font-size="11">2020</text>
+    <text x="580" y="236" fill="#8B9BB4" font-size="11">2022</text>
+    <text x="850" y="236" fill="#8B9BB4" font-size="11">2024</text>
+    <text x="1120" y="236" fill="#8B9BB4" font-size="11">2026</text>
+  </g>
+</svg>

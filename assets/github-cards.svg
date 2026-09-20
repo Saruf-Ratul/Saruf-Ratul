@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="GitHub stats and top languages">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#05070D"/><stop offset="1" stop-color="#0B1220"/></linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.06"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#A78BFA"/><stop offset="1" stop-color="#5EEAD4"/></linearGradient>
+    <clipPath id="frame"><rect width="1200" height="280" rx="22"/></clipPath>
+    <symbol id="i-star" viewBox="0 0 24 24"><path d="M12 3.6l2.4 4.9 5.4.8-3.9 3.8.9 5.4L12 16l-4.8 2.5.9-5.4L4.2 9.3l5.4-.8z"/></symbol>
+    <symbol id="i-commit" viewBox="0 0 24 24"><circle cx="12" cy="12" r="3.2"/><path d="M12 3v5.2M12 15.8V21"/></symbol>
+    <symbol id="i-pr" viewBox="0 0 24 24"><circle cx="7" cy="6" r="2.2"/><circle cx="7" cy="18" r="2.2"/><circle cx="17" cy="18" r="2.2"/><path d="M7 8.2v7.6M17 16V9.5c0-2-1.6-3.5-3.5-3.5H11"/></symbol>
+    <symbol id="i-issue" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8"/><circle cx="12" cy="12" r="2"/></symbol>
+    <symbol id="i-repo" viewBox="0 0 24 24"><path d="M5 4.5A1.5 1.5 0 0 1 6.5 3H18v16H6.5A1.5 1.5 0 0 0 5 20.5z"/><path d="M8 8h7M8 12h5"/></symbol>
+  </defs>
+  <g clip-path="url(#frame)" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <rect width="1200" height="280" fill="url(#bg)"/>
+    <rect width="1200" height="280" fill="none" stroke="#243049" stroke-width="2"/>
+    <rect x="-220" y="0" width="200" height="280" fill="url(#shine)"><animate attributeName="x" values="-220;1220" dur="5.2s" repeatCount="indefinite"/></rect>
+
+    <g>
+      <rect x="28" y="24" width="564" height="232" rx="18" fill="#070B14" stroke="#243049"/>
+      <text x="52" y="58" fill="#E8C872" font-size="16" font-weight="700">Saruf Ratul's GitHub Stats</text>
+      <rect x="52" y="70" width="220" height="2" rx="1" fill="#E8C872">
+        <animate attributeName="width" values="180;220;180" dur="3.6s" repeatCount="indefinite"/>
+      </rect>
+
+      <circle cx="500" cy="148" r="58" fill="none" stroke="#1B2536" stroke-width="10"/>
+      <circle cx="500" cy="148" r="58" fill="none" stroke="url(#ring)" stroke-width="10" stroke-linecap="round" stroke-dasharray="365" stroke-dashoffset="118" transform="rotate(-90 500 148)">
+        <animate attributeName="stroke-dashoffset" from="365" to="118" dur="1.8s" fill="freeze"/>
+      </circle>
+      <text x="500" y="142" text-anchor="middle" fill="#F8FAFC" font-size="28" font-weight="700">B-</text>
+      <text x="500" y="164" text-anchor="middle" fill="#8B9BB4" font-size="11" letter-spacing="2">RANK</text>
+
+      <g fill="none" stroke="#5EEAD4" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+        <use xlink:href="#i-star" x="50" y="90" width="18" height="18"/>
+      </g>
+      <text x="78" y="104" fill="#8B9BB4" font-size="13">Total Stars</text>
+      <text x="250" y="104" fill="#E8EEF8" font-size="13" font-weight="700">116</text>
+      <rect x="300" y="96" width="90" height="6" rx="3" fill="#1B2536"/>
+      <rect x="300" y="96" width="72" height="6" rx="3" fill="#E8C872"><animate attributeName="width" from="0" to="72" dur="1.2s" begin="0.2s" fill="freeze"/></rect>
+
+      <g fill="none" stroke="#5EEAD4" stroke-width="1.7" stroke-linecap="round">
+        <use xlink:href="#i-commit" x="50" y="122" width="18" height="18"/>
+      </g>
+      <text x="78" y="136" fill="#8B9BB4" font-size="13">Commits (2026)</text>
+      <text x="250" y="136" fill="#E8EEF8" font-size="13" font-weight="700">49</text>
+      <rect x="300" y="128" width="90" height="6" rx="3" fill="#1B2536"/>
+      <rect x="300" y="128" width="40" height="6" rx="3" fill="#5EEAD4"><animate attributeName="width" from="0" to="40" dur="1.2s" begin="0.35s" fill="freeze"/></rect>
+
+      <g fill="none" stroke="#5EEAD4" stroke-width="1.7" stroke-linecap="round">
+        <use xlink:href="#i-pr" x="50" y="154" width="18" height="18"/>
+      </g>
+      <text x="78" y="168" fill="#8B9BB4" font-size="13">Total PRs</text>
+      <text x="250" y="168" fill="#E8EEF8" font-size="13" font-weight="700">8</text>
+      <rect x="300" y="160" width="90" height="6" rx="3" fill="#1B2536"/>
+      <rect x="300" y="160" width="22" height="6" rx="3" fill="#A78BFA"><animate attributeName="width" from="0" to="22" dur="1.2s" begin="0.5s" fill="freeze"/></rect>
+
+      <g fill="none" stroke="#5EEAD4" stroke-width="1.7">
+        <use xlink:href="#i-issue" x="50" y="186" width="18" height="18"/>
+      </g>
+      <text x="78" y="200" fill="#8B9BB4" font-size="13">Total Issues</text>
+      <text x="250" y="200" fill="#E8EEF8" font-size="13" font-weight="700">3</text>
+      <rect x="300" y="192" width="90" height="6" rx="3" fill="#1B2536"/>
+      <rect x="300" y="192" width="14" height="6" rx="3" fill="#F87171"><animate attributeName="width" from="0" to="14" dur="1.2s" begin="0.65s" fill="freeze"/></rect>
+
+      <g fill="none" stroke="#5EEAD4" stroke-width="1.7" stroke-linecap="round">
+        <use xlink:href="#i-repo" x="50" y="218" width="18" height="18"/>
+      </g>
+      <text x="78" y="232" fill="#8B9BB4" font-size="13">Contributed to</text>
+      <text x="250" y="232" fill="#E8EEF8" font-size="13" font-weight="700">1</text>
+      <rect x="300" y="224" width="90" height="6" rx="3" fill="#1B2536"/>
+      <rect x="300" y="224" width="10" height="6" rx="3" fill="#34D399"><animate attributeName="width" from="0" to="10" dur="1.2s" begin="0.8s" fill="freeze"/></rect>
+    </g>
+
+    <g>
+      <rect x="608" y="24" width="564" height="232" rx="18" fill="#070B14" stroke="#243049"/>
+      <text x="632" y="58" fill="#E8C872" font-size="16" font-weight="700">Most Used Languages</text>
+      <rect x="632" y="70" width="180" height="2" rx="1" fill="#5EEAD4">
+        <animate attributeName="width" values="140;180;140" dur="3.6s" begin="0.4s" repeatCount="indefinite"/>
+      </rect>
+
+      <text x="632" y="108" fill="#E8EEF8" font-size="13">JavaScript</text>
+      <text x="1108" y="108" text-anchor="end" fill="#8B9BB4" font-size="12">48.4%</text>
+      <rect x="632" y="116" width="508" height="8" rx="4" fill="#1B2536"/>
+      <rect x="632" y="116" width="246" height="8" rx="4" fill="#E8C872"><animate attributeName="width" from="0" to="246" dur="1.3s" begin="0.3s" fill="freeze"/></rect>
+
+      <text x="632" y="148" fill="#E8EEF8" font-size="13">PHP</text>
+      <text x="1108" y="148" text-anchor="end" fill="#8B9BB4" font-size="12">20.6%</text>
+      <rect x="632" y="156" width="508" height="8" rx="4" fill="#1B2536"/>
+      <rect x="632" y="156" width="105" height="8" rx="4" fill="#5EEAD4"><animate attributeName="width" from="0" to="105" dur="1.3s" begin="0.45s" fill="freeze"/></rect>
+
+      <text x="632" y="188" fill="#E8EEF8" font-size="13">CSS</text>
+      <text x="1108" y="188" text-anchor="end" fill="#8B9BB4" font-size="12">13.7%</text>
+      <rect x="632" y="196" width="508" height="8" rx="4" fill="#1B2536"/>
+      <rect x="632" y="196" width="70" height="8" rx="4" fill="#A78BFA"><animate attributeName="width" from="0" to="70" dur="1.3s" begin="0.6s" fill="freeze"/></rect>
+
+      <text x="632" y="228" fill="#E8EEF8" font-size="13">HTML / Hack / C#</text>
+      <text x="1108" y="228" text-anchor="end" fill="#8B9BB4" font-size="12">17.3%</text>
+      <rect x="632" y="236" width="508" height="8" rx="4" fill="#1B2536"/>
+      <rect x="632" y="236" width="88" height="8" rx="4" fill="#34D399"><animate attributeName="width" from="0" to="88" dur="1.3s" begin="0.75s" fill="freeze"/></rect>
+    </g>
+  </g>
+</svg>

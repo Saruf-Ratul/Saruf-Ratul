@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="Contribution streak">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#05070D"/><stop offset="1" stop-color="#0B1220"/></linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.06"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
+    <clipPath id="frame"><rect width="1200" height="220" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <rect width="1200" height="220" fill="url(#bg)"/>
+    <rect width="1200" height="220" fill="none" stroke="#243049" stroke-width="2"/>
+    <rect x="-220" y="0" width="200" height="220" fill="url(#shine)"><animate attributeName="x" values="-220;1220" dur="5s" repeatCount="indefinite"/></rect>
+
+    <text x="200" y="48" text-anchor="middle" fill="#8B9BB4" font-size="12" letter-spacing="2">Total Contributions</text>
+    <text x="200" y="118" text-anchor="middle" fill="#E8EEF8" font-size="48" font-weight="700">2,042</text>
+    <text x="200" y="152" text-anchor="middle" fill="#8B9BB4" font-size="12">Sep 12, 2018 - Present</text>
+    <circle cx="200" cy="118" r="78" fill="none" stroke="#243049" stroke-width="2"/>
+    <circle cx="200" cy="118" r="78" fill="none" stroke="#E8C872" stroke-width="3" stroke-dasharray="12 8">
+      <animateTransform attributeName="transform" type="rotate" from="0 200 118" to="360 200 118" dur="14s" repeatCount="indefinite"/>
+    </circle>
+
+    <rect x="392" y="36" width="2" height="148" fill="#243049"/>
+
+    <g>
+      <circle cx="600" cy="86" r="52" fill="none" stroke="#1B2536" stroke-width="8"/>
+      <circle cx="600" cy="86" r="52" fill="none" stroke="#E8C872" stroke-width="8" stroke-linecap="round" stroke-dasharray="327" stroke-dashoffset="80" transform="rotate(-90 600 86)">
+        <animate attributeName="stroke-dashoffset" from="327" to="80" dur="1.6s" fill="freeze"/>
+      </circle>
+      <text x="600" y="78" text-anchor="middle" fill="#5EEAD4" font-size="36" font-weight="700">6</text>
+      <text x="600" y="100" text-anchor="middle" fill="#E8C872" font-size="11" letter-spacing="1.5">Current</text>
+      <text x="600" y="168" text-anchor="middle" fill="#E8C872" font-size="13" font-weight="700">Current Streak</text>
+      <text x="600" y="190" text-anchor="middle" fill="#8B9BB4" font-size="12">Sep 14 - Sep 19</text>
+      <circle cx="600" cy="86" r="6" fill="#5EEAD4">
+        <animate attributeName="opacity" values="0.3;1;0.3" dur="1.4s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <rect x="806" y="36" width="2" height="148" fill="#243049"/>
+
+    <text x="1000" y="48" text-anchor="middle" fill="#8B9BB4" font-size="12" letter-spacing="2">Longest Streak</text>
+    <text x="1000" y="118" text-anchor="middle" fill="#E8EEF8" font-size="48" font-weight="700">14</text>
+    <text x="1000" y="152" text-anchor="middle" fill="#8B9BB4" font-size="12">Aug 4 - Aug 17</text>
+    <rect x="930" y="172" width="140" height="6" rx="3" fill="#1B2536"/>
+      <rect x="930" y="172" width="140" height="6" rx="3" fill="#5EEAD4"><animate attributeName="width" from="0" to="140" dur="1.4s" begin="0.4s" fill="freeze"/></rect>
+  </g>
+</svg>
