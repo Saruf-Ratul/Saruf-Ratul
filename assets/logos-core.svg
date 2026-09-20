@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="92" viewBox="0 0 1200 92" role="img" aria-label="Core stack logos">
+  <rect width="1200" height="92" fill="#05070D"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" font-weight="700" text-anchor="middle">
+    <g transform="translate(24 10)">
+      <rect width="72" height="72" rx="16" fill="#0B1220" stroke="#243049"/>
+      <rect x="16" y="12" width="40" height="40" rx="8" fill="#68217A"/>
+      <text x="36" y="37" fill="#FFFFFF" font-size="13">C#</text>
+      <text x="36" y="66" fill="#8B9BB4">C Sharp</text>
+    </g>
+    <g transform="translate(140 10)">
+      <rect width="72" height="72" rx="16" fill="#0B1220" stroke="#243049"/>
+      <rect x="16" y="12" width="40" height="40" rx="8" fill="#512BD4"/>
+      <text x="36" y="37" fill="#FFFFFF" font-size="11">.NET</text>
+      <text x="36" y="66" fill="#8B9BB4">Dotnet</text>
+    </g>
+    <g transform="translate(256 10)">
+      <rect width="72" height="72" rx="16" fill="#0B1220" stroke="#243049"/>
+      <rect x="16" y="12" width="40" height="40" rx="8" fill="#3178C6"/>
+      <text x="36" y="37" fill="#FFFFFF" font-size="13">TS</text>
+      <text x="36" y="66" fill="#8B9BB4">TypeScript</text>
+    </g>
+    <g transform="translate(372 10)">
+      <rect width="72" height="72" rx="16" fill="#0B1220" stroke="#243049"/>
+      <rect x="16" y="12" width="40" height="40" rx="8" fill="#F7DF1E"/>
+      <text x="36" y="37" fill="#111111" font-size="13">JS</text>
+      <text x="36" y="66" fill="#8B9BB4">JavaScript</text>
+    </g>
+    <g transform="translate(488 10)">
+      <rect width="72" height="72" rx="16" fill="#0B1220" stroke="#243049"/>
+      <rect x="16" y="12" width="40" height="40" rx="8" fill="#DD0031"/>
+      <text x="36" y="37" fill="#FFFFFF" font-size="12">NG</text>
+      <text x="36" y="66" fill="#8B9BB4">Angular</text>
+    </g>
+    <g transform="translate(604 10)">
+      <rect width="72" height="72" rx="16" fill="#0B1220" stroke="#243049"/>
+      <circle cx="36" cy="32" r="16" fill="none" stroke="#61DAFB" stroke-width="2"/>
+      <circle cx="36" cy="32" r="3" fill="#61DAFB"/>
+      <text x="36" y="66" fill="#8B9BB4">React</text>
+    </g>
+    <g transform="translate(720 10)">
+      <rect width="72" height="72" rx="16" fill="#0B1220" stroke="#243049"/>
+      <rect x="16" y="12" width="40" height="40" rx="8" fill="#339933"/>
+      <text x="36" y="37" fill="#FFFFFF" font-size="11">Node</text>
+      <text x="36" y="66" fill="#8B9BB4">Node.js</text>
+    </g>
+    <g transform="translate(836 10)">
+      <rect width="72" height="72" rx="16" fill="#0B1220" stroke="#243049"/>
+      <rect x="16" y="12" width="40" height="40" rx="8" fill="#E34F26"/>
+      <text x="36" y="37" fill="#FFFFFF" font-size="11">HTML</text>
+      <text x="36" y="66" fill="#8B9BB4">HTML5</text>
+    </g>
+    <g transform="translate(952 10)">
+      <rect width="72" height="72" rx="16" fill="#0B1220" stroke="#243049"/>
+      <rect x="16" y="12" width="40" height="40" rx="8" fill="#CC2927"/>
+      <text x="36" y="37" fill="#FFFFFF" font-size="11">SQL</text>
+      <text x="36" y="66" fill="#8B9BB4">SQL Server</text>
+    </g>
+    <g transform="translate(1068 10)">
+      <rect width="72" height="72" rx="16" fill="#0B1220" stroke="#243049"/>
+      <rect x="16" y="12" width="40" height="40" rx="8" fill="#0078D4"/>
+      <text x="36" y="37" fill="#FFFFFF" font-size="10">Azure</text>
+      <text x="36" y="66" fill="#8B9BB4">Azure</text>
+    </g>
+  </g>
+  <rect x="-80" y="10" width="56" height="72" fill="#E8C872" opacity="0.12">
+    <animate attributeName="x" values="-80;1220" dur="4.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>

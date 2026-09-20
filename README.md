@@ -2,28 +2,24 @@
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,2,30&height=150&section=header&animation=fadeIn" width="100%" alt="" />
-</p>
-
-<p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Saruf Ratul - Director of Engineering, Full-Stack Architect" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/Saruf-Ratul.png" width="112" height="112" alt="Saruf Ratul" />
-</p>
+<table align="center" width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <img src="./assets/hero.svg" width="100%" alt="Saruf Ratul - Director of Engineering, Full-Stack Architect" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="./assets/hello.svg" width="100%" alt="Hey, I'm Saruf Ratul" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=22&duration=2200&pause=500&color=E8C872&center=true&vCenter=true&width=820&lines=Director+of+Engineering+%40+Xceleran+(USA);Assistant+Manager+-+Developer+%40+NAVANA+%2F+Toyota;I+architect+the+systems+that+run+revenue%2C+inventory%2C+and+hiring;Open+to+global+leadership+roles+-+visa+welcome" alt="Typing headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=22&duration=6500&pause=2200&color=E8C872&center=true&vCenter=true&width=820&lines=Director+of+Engineering+%40+Xceleran+(USA);Assistant+Manager+-+Developer+%40+NAVANA+%2F+Toyota;I+architect+the+systems+that+run+revenue%2C+inventory%2C+and+hiring;Open+to+global+leadership+roles+-+visa+welcome" alt="Typing headline" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1800&pause=350&color=5EEAD4&center=true&vCenter=true&width=720&lines=C%23+%2F+.NET+%2F+ASP.NET+Core+%2F+SQL+Server;Angular+%2F+React+%2F+TypeScript+%2F+Blazor;QuickBooks+%2F+Clearent+%2F+Azure+%2F+Power+BI" alt="Typing stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=5500&pause=1800&color=5EEAD4&center=true&vCenter=true&width=720&lines=C%23+%2F+.NET+%2F+ASP.NET+Core+%2F+SQL+Server;Angular+%2F+React+%2F+TypeScript+%2F+Blazor;QuickBooks+%2F+Clearent+%2F+Azure+%2F+Power+BI" alt="Typing stack" />
 </p>
 
 <p align="center">
@@ -69,7 +65,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d285065735b.gif" width="420" alt="" />
+  <img src="./assets/logos-core.svg" width="100%" alt="Core stack logos: C#, .NET, TypeScript, JavaScript, Angular, React, Node.js, HTML5, SQL Server, Azure" />
 </p>
 
 <p align="center">
@@ -132,25 +128,15 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,angular,react,nodejs,html" alt="Languages and frontend" />
+  <img src="./assets/logos-core.svg" width="100%" alt="Core stack logos: C#, .NET, TypeScript, JavaScript, Angular, React, Node.js, HTML5, SQL Server, Azure" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,azure,aws,docker,kubernetes" alt="Data and cloud" />
+  <img src="./assets/logos-cloud.svg" width="100%" alt="Data and cloud logos: MySQL, Postgres, MongoDB, Redis, AWS, Docker, Kubernetes, Git, GitHub, Visual Studio" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,linux,windows,flutter" alt="Tools" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL%20Server-T--SQL%20%7C%20SSRS-CC2927?style=for-the-badge&labelColor=0B1220" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Oracle-12c%20%7C%20PL%2FSQL-F80000?style=for-the-badge&labelColor=0B1220" alt="Oracle" />
-  <img src="https://img.shields.io/badge/Blazor-.NET%20UI-512BD4?style=for-the-badge&labelColor=0B1220" alt="Blazor" />
-  <img src="https://img.shields.io/badge/QuickBooks-API%20%7C%20KPIs-2CA01C?style=for-the-badge&labelColor=0B1220" alt="QuickBooks" />
-  <img src="https://img.shields.io/badge/Clearent-Payments-F87171?style=for-the-badge&labelColor=0B1220" alt="Clearent" />
-  <img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&labelColor=0B1220" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Crystal%20Reports-Reporting-1F6FEB?style=for-the-badge&labelColor=0B1220" alt="Crystal Reports" />
+  <img src="./assets/logos-tools.svg" width="100%" alt="Tools and platform logos: VS Code, Postman, Linux, Windows, Flutter, Blazor, Power BI, QuickBooks, Oracle, Crystal Reports" />
 </p>
 
 <p align="center">

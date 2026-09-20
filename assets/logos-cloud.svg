@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="92" viewBox="0 0 1200 92" role="img" aria-label="Data and cloud logos">
+  <rect width="1200" height="92" fill="#05070D"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" font-weight="700" text-anchor="middle">
+    <g transform="translate(24 10)">
+      <rect width="72" height="72" rx="16" fill="#0B1220" stroke="#243049"/>
+      <rect x="16" y="12" width="40" height="40" rx="8" fill="#4479A1"/>
+      <text x="36" y="37" fill="#FFFFFF" font-size="10">MySQL</text>
+      <text x="36" y="66" fill="#8B9BB4">MySQL</text>
+    </g>
+    <g transform="translate(140 10)">
+      <rect width="72" height="72" rx="16" fill="#0B1220" stroke="#243049"/>
+      <rect x="16" y="12" width="40" height="40" rx="8" fill="#336791"/>
+      <text x="36" y="37" fill="#FFFFFF" font-size="11">PG</text>
+      <text x="36" y="66" fill="#8B9BB4">Postgres</text>
+    </g>
+    <g transform="translate(256 10)">
+      <rect width="72" height="72" rx="16" fill="#0B1220" stroke="#243049"/>
+      <rect x="16" y="12" width="40" height="40" rx="8" fill="#47A248"/>
+      <text x="36" y="37" fill="#FFFFFF" font-size="10">Mongo</text>
+      <text x="36" y="66" fill="#8B9BB4">MongoDB</text>
+    </g>
+    <g transform="translate(372 10)">
+      <rect width="72" height="72" rx="16" fill="#0B1220" stroke="#243049"/>
+      <rect x="16" y="12" width="40" height="40" rx="8" fill="#DC382D"/>
+      <text x="36" y="37" fill="#FFFFFF" font-size="10">Redis</text>
+      <text x="36" y="66" fill="#8B9BB4">Redis</text>
+    </g>
+    <g transform="translate(488 10)">
+      <rect width="72" height="72" rx="16" fill="#0B1220" stroke="#243049"/>
+      <rect x="16" y="12" width="40" height="40" rx="8" fill="#FF9900"/>
+      <text x="36" y="37" fill="#111111" font-size="11">AWS</text>
+      <text x="36" y="66" fill="#8B9BB4">AWS</text>
+    </g>
+    <g transform="translate(604 10)">
+      <rect width="72" height="72" rx="16" fill="#0B1220" stroke="#243049"/>
+      <rect x="16" y="12" width="40" height="40" rx="8" fill="#2496ED"/>
+      <text x="36" y="37" fill="#FFFFFF" font-size="9">Docker</text>
+      <text x="36" y="66" fill="#8B9BB4">Docker</text>
+    </g>
+    <g transform="translate(720 10)">
+      <rect width="72" height="72" rx="16" fill="#0B1220" stroke="#243049"/>
+      <rect x="16" y="12" width="40" height="40" rx="8" fill="#326CE5"/>
+      <text x="36" y="37" fill="#FFFFFF" font-size="10">K8s</text>
+      <text x="36" y="66" fill="#8B9BB4">Kubernetes</text>
+    </g>
+    <g transform="translate(836 10)">
+      <rect width="72" height="72" rx="16" fill="#0B1220" stroke="#243049"/>
+      <rect x="16" y="12" width="40" height="40" rx="8" fill="#F05032"/>
+      <text x="36" y="37" fill="#FFFFFF" font-size="12">Git</text>
+      <text x="36" y="66" fill="#8B9BB4">Git</text>
+    </g>
+    <g transform="translate(952 10)">
+      <rect width="72" height="72" rx="16" fill="#0B1220" stroke="#243049"/>
+      <rect x="16" y="12" width="40" height="40" rx="8" fill="#181717"/>
+      <text x="36" y="37" fill="#FFFFFF" font-size="10">GH</text>
+      <text x="36" y="66" fill="#8B9BB4">GitHub</text>
+    </g>
+    <g transform="translate(1068 10)">
+      <rect width="72" height="72" rx="16" fill="#0B1220" stroke="#243049"/>
+      <rect x="16" y="12" width="40" height="40" rx="8" fill="#5C2D91"/>
+      <text x="36" y="37" fill="#FFFFFF" font-size="10">VS</text>
+      <text x="36" y="66" fill="#8B9BB4">Visual Studio</text>
+    </g>
+  </g>
+  <rect x="-80" y="10" width="56" height="72" fill="#5EEAD4" opacity="0.12">
+    <animate attributeName="x" values="-80;1220" dur="4.6s" begin="0.4s" repeatCount="indefinite"/>
+  </rect>
+</svg>
